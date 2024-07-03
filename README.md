@@ -30,6 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![cub3D][product-screenshot]](https://github.com/chrisdelmoro/cub3D/blob/main/resources/repo/demo.gif)
+
 The Cub3D project at École 42 is a graphics programming project that involves creating a basic 3D game using a raycasting engine. This project helps students understand key concepts in computer graphics and game development. Here are the main focus areas:
 
 1. **Raycasting**: Students learn about the raycasting technique, which is used to create a pseudo-3D perspective by casting rays from the player's point of view to detect walls and other objects in a 2D map. This technique is similar to what was used in early 3D games like Wolfenstein 3D.
@@ -124,3 +126,4 @@ Project Link: [https://github.com/chrisdelmoro/cub3D](https://github.com/chrisde
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: https://github.com/chrisdelmoro/cub3D/blob/main/resources/repo/demo.gif
