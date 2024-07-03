@@ -3,7 +3,7 @@
 <!-- PROJECT SHIELDS -->
 <br/>
 <p align="center">
-    <img src="https://github.com/chrisdelmoro/cube3D/blob/main/resources/repo/cub3dm.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/chrisdelmoro/cub3D/blob/main/resources/repo/cub3dm.png" alt="Logo" width="150" height="150">
 
   <p align="center">
     This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It enable us to explore ray-casting. Our goal was be to make a dynamic view inside a maze, in which the player have to find their way.
